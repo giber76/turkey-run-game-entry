@@ -1,6 +1,10 @@
 # Gobble Dash — The Great Turkey Escape
 
-A make.fun bounty entry for **turkey-run-game-01**: the best turkey escape game.
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/giber76/turkey-run-game-entry/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/giber76/turkey-run-game-entry/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+
+A make.fun bounty entry for **turkey-run-game-01**: the best turkey escape game. See the bounty at https://make.fun/bounty/turkey-run-game-01.
 
 Thanksgiving is coming and the farmer is coming faster. You are the turkey.
 Run 1200 m from the farm to the forest gate while the farmer chases you from
